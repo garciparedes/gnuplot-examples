@@ -1,7 +1,9 @@
+#
 # Ejercicio 1 DESI: Gnuplot
 # Sergio Garcia Prado
-
+# https://github.com/garciparedes/gnuplot-examples/tree/master/ejercicio1
 #
+
 # Borramos la configuracion anterior
 #
 reset
